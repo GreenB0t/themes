@@ -134,6 +134,16 @@
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/neon-city-red.sable.css"
     },
     {
+      "basename": "os-mac9",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-mac9.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-mac9.sable.css"
+    },
+    {
+      "basename": "os-windows95",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-windows95.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-windows95.sable.css"
+    },
+    {
       "basename": "rose-pine",
       "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/rose-pine.preview.sable.css",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/rose-pine.sable.css"
