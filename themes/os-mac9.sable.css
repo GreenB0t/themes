@@ -17,7 +17,7 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/o
 @font-face {
   font-family: ChicagoFLF;
   font-weight: normal;
-  src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/W95FA/W95F.otf") format('opentype');
+  src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/Chicago_FLF/ChicagoFLF.ttf") format('truetype');
 }
 
 /* Font Stuff */
