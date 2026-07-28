@@ -1,0 +1,20 @@
+/*
+@sable-theme
+id: terminal-bluescreen
+name: Terminal Blue Screen
+author: otesunki, edited by userspring
+kind: dark
+contrast: low
+tags: retro, blue · recommended tweaks: square-everything, crt
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/terminal-bluescreen.sable.css
+*/
+
+.sable-theme-preview {
+  --sable-bg-container: hsl(240, 75%, 38.4%);
+  --sable-bg-on-container: hsl(240, 0%, 80%);
+  --sable-surface-container: hsl(240, 75%, 38.4%);
+  --sable-surface-container-line: hsl(240, 75%, 60%);
+  --sable-surface-on-container: hsl(240, 0%, 87%);
+  --sable-primary-main: hsl(240, 75%, 100%);
+  --sable-primary-on-main: hsl(240, 75%, 11.6%);
+}

@@ -1,0 +1,20 @@
+/*
+@sable-theme
+id: os-mac9
+name: OS Mac 9
+author: by userspring
+kind: dark
+contrast: low
+tags: retro, purple · recommended tweaks: square-everything, crt
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/os-mac9.sable.css
+*/
+
+.sable-theme-preview {
+  --sable-bg-container: hsl(260, 3%, 58.4%);
+  --sable-bg-on-container: hsl(260, 0%, 8%);
+  --sable-surface-container: hsl(250, 27%, 42%);
+  --sable-surface-container-line: hsl(250, 5%, 60%);
+  --sable-surface-on-container: hsl(250, 0%, 90%);
+  --sable-primary-main: hsl(260, 3%, 90%);
+  --sable-primary-on-main: hsl(260, 3%, 11.6%);
+}
