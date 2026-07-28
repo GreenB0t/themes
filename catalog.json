@@ -157,9 +157,18 @@
       "basename": "silver",
       "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/silver.preview.sable.css",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/silver.sable.css"
+    },
+    {
+      "basename": "terminal-bluescreen",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/terminal-bluescreen.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/terminal-bluescreen.sable.css"
     }
   ],
   "tweaks": [
+    {
+      "basename": "Atkinson-Hyperlegible",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/Atkinson-Hyperlegible.sable.css"
+    },
     {
       "basename": "calm-buttons",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/calm-buttons.sable.css"
@@ -171,6 +180,10 @@
     {
       "basename": "clear-theme-font",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/clear-theme-font.sable.css"
+    },
+    {
+      "basename": "comic-relief",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/comic-relief.sable.css"
     },
     {
       "basename": "crt-filter",
@@ -187,6 +200,10 @@
     {
       "basename": "grayscale-avatars",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/grayscale-avatars.sable.css"
+    },
+    {
+      "basename": "OpenDyslexic",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/OpenDyslexic.sable.css"
     },
     {
       "basename": "rightbar",
