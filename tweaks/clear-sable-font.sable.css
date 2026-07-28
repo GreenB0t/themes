@@ -13,4 +13,5 @@ body.sable-remote-theme * {
   --custom-font-size1: 1rem !important;
   --custom-font-size2: var(--_164xfgeb) !important;
   --custom-line-height: inherit !important;
+  --custom-letter-spacing: inherit !important;
 }
