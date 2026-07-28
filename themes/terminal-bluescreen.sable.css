@@ -169,3 +169,9 @@ body.sable-remote-theme [data-sentry-component="Space"]
 svg {
   display: none !important;
 }
+
+/* Timeline Pronouns */
+.layout_PronounPill__1r9nvas18 {
+    background: hsl(180, 50%, 20%);
+    font-size: 13px;
+}
