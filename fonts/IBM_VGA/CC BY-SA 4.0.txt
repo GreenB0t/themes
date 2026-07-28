@@ -1,0 +1,71 @@
+
+           _ ─ --- ─                  _ ─ --- ─
+        .∙"    ,┬,   ~=╥_    .∙.   .∙"          ~=╥_
+      .    . .OZZZO╕    ^g,      .    .■°~°■.      ^%╖   .s%ZO┐
+          `  └ªqZpª' °∙  `Z,         `        _.,·  `gZ┐  ∙:ZZ|
+      _┬g%%oc,  ~ _.,  `  ╘Z;         _.,┬⌐y%Z=-:· .s%Z%L, `OZZYi%g┬_
+     jOZZÿÿZZOL· jOZZÿ¬,  `Zb  _.┬⌐y%ZZZZZZZZ%=:∙ jZZZZZZZb `ZZZZÿZZZb
+    ∙ZZ?~ ~\ZZZ| |¢ZZZZO\ ·?Z.∙%ÿZZZZZZª*╩ⁿ^°"`' /ZZª"~"ªZZ\ ∙T   ~!ZZ┤
+     Z6f   ∙ZZZO∙·|ZZZ^ZZi ]Z1·:-":ZZZ'      _. ∙OZ/     \ZZL :    |6Z'
+ .   `ZZ¬._ ~"^Z| ∙ZZZ;\ZZ ╞Z╡   ·¢ZZZ·  _┬%ZZ· l%! .oZo, ]ZZ·∙  _╥ZZ'   .
+  ,    ~^╩*╩^~.Z¢··ZZZl ZZ┬ZZ1 · ∙ZZZZ∙  ^ª!ZZ∙ :=l dZZZb ∙ZZ|  ~^"~
+   ∙        g%ZZZ··ZZZZ `¥ZZZ° : ·ZZZZ:   ∙lZZ| ∙;∙ :ZZZF ·ZZ|         .'
+    ~─_    ·ZZZZ| ∙ZZZZ  └ZZÿ' ∙  ?ZZZ!    :ZZ│· ·∙  "ª"  dZg·      _─~
+       ~"^ :ZZZO∙∙|ZZZ!   `^'  '  `¥ZZZ    ·ªZZ:  ·     ./ZZf ·─--`~
+           OZZZ∙ jZª╩~  `. _ _. .   ~^ªL, YZZZZOzz┬┬ ·∙:=CO/
+     -V!  jª╩^~     .     ~-║∙-~    .     `^╩ªZ¥ÿZF'·∙:%CG' . O R G
+                     ~─_    T    _─~             ~'  '^"~
+                        ~"═=|=═"~
+                            ∙        p r e s e n t s
+                            ·
+
+
+                   The Ultimate Oldschool PC Font Pack
+
+                < http://int10h.org/oldschool-pc-fonts/ >
+
+                          v2.2 // 2020-11-21
+
+   ------------------------------------------------------------------------
+   
+   For documentation see the 'docs' folder or these pages:
+   
+      Readme:       < http://int10h.org/oldschool-pc-fonts/readme/ >
+
+      Font list:    < http://int10h.org/oldschool-pc-fonts/fontlist/ >
+
+   ------------------------------------------------------------------------
+
+   The Ultimate Oldschool PC Font Pack is licensed under a Creative Commons
+   Attribution-ShareAlike 4.0 International License.
+
+   You should have received a copy of the license along with this work. If
+   not, see < http://creativecommons.org/licenses/by-sa/4.0/ >.
+
+                                                        (c) 2016-2020 VileR
+
+   ------------------------------------------------------------------------
+
+CC BY-SA 4.0 - Attribution-ShareAlike 4.0 International
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to:
+
+    Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+    Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+    The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+    ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+Notice
+
+This deed highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. You should carefully review all of the terms and conditions of the actual license before using the licensed material. see < https://creativecommons.org/licenses/by-sa/4.0/legalcode.en >
+
+Creative Commons is not a law firm and does not provide legal services. Distributing, displaying, or linking to this deed or the license that it summarizes does not create a lawyer-client or any other relationship.
