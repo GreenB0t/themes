@@ -1,22 +1,24 @@
 /*
 @sable-theme
 id: windows95
-name: OS Windows 95
+name: OS Win-95
 author: by userspring
 kind: dark
 contrast: low
-tags: retro, green · recommended tweaks: square-everything, crt
+tags: retro, green · recommended tweaks: square-everything, crt · unofficial unaffiliated fan work
 fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/os-windows95.sable.css
 */
 @font-face {
   font-family: IBM8x16;
   font-weight: normal;
   src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/IBM_VGA/Px437_IBM_VGA_8x16.ttf") format('truetype');
+  font-display: swap;
 }
 @font-face {
   font-family: W95FA;
   font-weight: normal;
   src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/W95FA/W95F.otf") format('opentype');
+  font-display: swap;
 }
 
 body.sable-remote-theme :is(.layout_MessageTextBody_jumboEmoji_none__1r9nvas1b, 

@@ -10,42 +10,30 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/s
 */
 
 @font-face {
-  font-family: 'Rajdhani';
-  font-weight: 300; /* light */
-  src: url('https://raw.githubusercontent.com/SableClient/themes/main/fonts/Rajdhani/Rajdhani-Light.ttf') format('truetype');
-  font-display: swap;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/Chakra_Petch/ChakraPetch-Regular.ttf") format('truetype');
+  font-display: swap; 
+}
+@font-face {
+  font-family: Chakra Petch;
+  font-weight: 300;
+  src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/Chakra_Petch/ChakraPetch-Light.ttf") format('truetype');
+  font-display: swap; 
 }
 
-@font-face {
-  font-family: 'Rajdhani';
-  font-weight: 400; /* regular */
-  src: url('https://raw.githubusercontent.com/SableClient/themes/main/fonts/Rajdhani/Rajdhani-Regular.ttf') format('truetype');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Rajdhani';
-  font-weight: 500; /* medium */
-  src: url('https://raw.githubusercontent.com/SableClient/themes/main/fonts/Rajdhani/Rajdhani-Medium.ttf') format('truetype');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Rajdhani';
-  font-weight: 600; /* semi‑bold */
-  src: url('https://raw.githubusercontent.com/SableClient/themes/main/fonts/Rajdhani/Rajdhani-SemiBold.ttf') format('truetype');
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Rajdhani';
-  font-weight: 700; /* bold */
-  src: url('https://raw.githubusercontent.com/SableClient/themes/main/fonts/Rajdhani/Rajdhani-Bold.ttf') format('truetype');
-  font-display: swap;
+body.sable-remote-theme :is(.layout_MessageTextBody_jumboEmoji_none__1r9nvas1b, 
+[class*="CustomHtml_Paragraph__1t9vo331"], 
+[class="layout_Username__1r9nvas16"] *, 
+.Editor_Editor__1a1o97c0 *:not([class*="CustomHtml_EmoticonBase__1t9vo33q"] *)) {
+    --custom-font-size1: 15.5px;
+    --custom-line-height: 1.4;
+    line-height: var(--custom-line-height);
+    font-size: var(--custom-font-size1) !important;
 }
 
 body.sable-remote-theme {
-  --font-secondary: 'Rajdhani', 'Twemoji', 'Nunito Variable', system-ui, -apple-system, sans-serif;
+  --font-secondary: 'Chakra Petch', 'Twemoji', 'Nunito Variable', system-ui, -apple-system, sans-serif;
 
   /* --- Background --- */
   --sable-bg-container: hsl(207, 34.72%, 12.56%);
@@ -59,7 +47,7 @@ body.sable-remote-theme {
   --sable-surface-container-hover: hsl(206, 31.56%, 19.49%);
   --sable-surface-container-active: hsl(206, 22.09%, 20.58%);
   --sable-surface-container-line: hsl(206, 33.14%, 28.70%);
-  --sable-surface-on-container: hsl(203, 40%, 95%);
+  --sable-surface-on-container: hsl(203, 40%, 97%);
 
   /* --- Surface Variant --- */
   --sable-surface-var-container: hsl(209, 52.07%, 10.18%);
