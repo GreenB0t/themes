@@ -1,0 +1,20 @@
+/*
+@sable-theme
+id: cyberpunk
+name: Cyberpunk
+author: userspring
+kind: dark
+contrast: low
+tags: blue, purple, gradient · recommended tweaks: square-everything, crt
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/cyberpunk.css
+*/
+
+.sable-theme-preview {
+  --sable-bg-container: hsl(210, 100%, 12%);
+  --sable-bg-on-container: hsl(280, 95%, 80%);
+  --sable-surface-container: hsla(220, 44%, 10%, 0.67%);
+  --sable-surface-container-line: hsl(210, 80%, 33%);
+  --sable-surface-on-container: hsl(280, 0%, 90%);
+  --sable-primary-main: hsl(205, 100%, 22%);
+  --sable-primary-on-main: hsl(210, 70%, 76%);
+}

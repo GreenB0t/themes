@@ -13,6 +13,7 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/t
   font-family: IBM8x14;
   font-weight: normal;
   src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/IBM_VGA/Px437_IBM_VGA_8x14.ttf") format('truetype');
+  font-display: swap;
 }
 
 body.sable-remote-theme :is(.layout_MessageTextBody_jumboEmoji_none__1r9nvas1b, 

@@ -12,7 +12,8 @@ body.sable-remote-theme * {
   /* DO NOT USE font-family HERE. WE HAVE VARIABLES. */
   --font-secondary: 'Nunito Variable', 'Twemoji', system-ui, -apple-system, sans-serif, serif !important;
   --custom-font-size1: 1rem !important;
-  --custom-font-size2: var(--_164xfgeb) !important;
+  --custom-font-size2: .875rem !important;
   --custom-line-height: inherit !important;
   --custom-letter-spacing: inherit !important;
+  --custom-line-weight: 400 !important;
 }

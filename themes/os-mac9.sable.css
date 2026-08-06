@@ -1,11 +1,11 @@
 /*
 @sable-theme
 id: os-mac9
-name: OS Mac 9
-author: by userspring
+name: OS Mac-9
+author: userspring
 kind: dark
 contrast: low
-tags: retro, purple · recommended tweaks: square-everything, crt
+tags: retro, purple · recommended tweaks: square-everything, crt · unofficial unaffiliated fan work
 fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/os-mac9.sable.css
 */
 
@@ -13,11 +13,13 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/o
   font-family: IBM8x16;
   font-weight: normal;
   src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/IBM_VGA/Px437_IBM_VGA_8x16.ttf") format('truetype');
+  font-display: swap;
 }
 @font-face {
   font-family: ChicagoFLF;
   font-weight: normal;
   src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/Chicago_FLF/ChicagoFLF.ttf") format('truetype');
+  font-display: swap;
 }
 
 /* Font Stuff */
