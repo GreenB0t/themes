@@ -50,7 +50,7 @@ body.sable-remote-theme {
 
   /* --- Surface --- */
   --sable-surface-container: hsla(60, 45%, 1.5%, var(--soft-alpha));
-  --sable-surface-container-hover: hsl(60, 47%, 10%);
+  --sable-surface-container-hover: hsl(60, 47%, 8%);
   --sable-surface-container-active: hsl(60, 42.09%, 20.58%);
   --sable-surface-container-line: hsl(60, 77%, 30%);
   --sable-surface-on-container: hsl(62, 0%, 100%);
