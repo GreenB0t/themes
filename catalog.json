@@ -69,6 +69,21 @@
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cinny-silver.sable.css"
     },
     {
+      "basename": "cyber-noir",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cyber-noir.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cyber-noir.sable.css"
+    },
+    {
+      "basename": "cyberpunk",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cyberpunk.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cyberpunk.sable.css"
+    },
+    {
+      "basename": "cyberpunk-77",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cyberpunk-77.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/cyberpunk-77.sable.css"
+    },
+    {
       "basename": "dark",
       "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/dark.preview.sable.css",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/dark.sable.css"
@@ -137,11 +152,6 @@
       "basename": "os-mac9",
       "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-mac9.preview.sable.css",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-mac9.sable.css"
-    },
-    {
-      "basename": "os-windows95",
-      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-windows95.preview.sable.css",
-      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/os-windows95.sable.css"
     },
     {
       "basename": "rose-pine",
