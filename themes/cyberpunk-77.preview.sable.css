@@ -12,7 +12,7 @@ fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/c
 .sable-theme-preview {
   --sable-bg-container: hsl(0, 45%, 8%);
   --sable-bg-on-container: hsl(200, 90%, 73%);
-  --sable-surface-container: hsla(0, 44%, 10%, 0.67%);
+  --sable-surface-container: hsl(0, 44%, 8%);
   --sable-surface-container-line: hsl(0, 47%, 33%);
   --sable-surface-on-container: hsl(200, 90%, 79%);
   --sable-primary-main: hsl(0, 44%, 28%);
