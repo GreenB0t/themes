@@ -158,10 +158,15 @@ body.sable-remote-theme button:is([class="_13tt0gb6 _1mqalmd1 _1mqalmd0 _1bugis9
   margin-bottom: 5px;
   height: 38px;
 }
-body.sable-remote-theme :is([class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]) {
+body.sable-remote-theme :is([class*="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja"]) {
   margin-bottom: 4px;
   height: 35px !important;
+  transition: transform 0.1s ease-in-out;
 }
+body.sable-remote-theme :is([class*="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja"]):hover {
+  transform: translateY(-1px);
+}
+
 body.sable-remote-theme button:is([class="_13tt0gb6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _13tt0gb7 _13tt0gbf _13tt0gbi cpipac3"], 
 [class="_1bv8u1w6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1bv8u1wb _1bv8u1wh _1bv8u1wf cpipac5"], 
 [class="styles_NavLink__e6taqj2"], [class="epr39zd _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 epr39ze epr39zl epr39zo cpipac5"], 
