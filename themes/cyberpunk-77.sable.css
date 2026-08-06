@@ -146,6 +146,12 @@ body.sable-remote-theme :is([data-sentry-element="EmojiBoardLayout"] *:is(button
 body.sable-remote-theme button:is([class*="styles_NavCategoryHeader__e6taqj1"] *) {
   color: hsl(0, 100%, 68%) !important;
 }
+body.sable-remote-theme :is([class*="RoomTimeline_TimelineFloat__1n936q90"]) {
+  background: none !important;
+}
+body.sable-remote-theme :is([class="prxiv40 _1mqalmd1 _1mqalmd0 prxiv41 prxiv4g prxiv41a prxiv41k RoomTimeline_TimelineFloat__1n936q90 _1mqalmd1 _1mqalmd0 RoomTimeline_TimelineFloat_position_Top__1n936q91"]) {
+  border-radius: 50% !important;
+}
 
 /* Cyber Border */
 .styles_NavItemBase__e6taqj8:is([aria-selected=true]) {
