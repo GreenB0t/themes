@@ -183,7 +183,7 @@ body.sable-remote-theme [class="prxiv40 _1mqalmd1 _1mqalmd0 prxiv41 prxiv46 prxi
 
 /* Terminal Lobby Icon */
 body.sable-remote-theme [class="styles_NavCategory__e6taqj0 _1mqalmd1 _1mqalmd0"]:first-of-type
-[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button))
+[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button, [data-sentry-source-file="Inbox.tsx"]))
 [class="_1684mq51 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1684mq52 cpipac3"]::before { 
   content: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"/><polyline points="40 64 112 128 40 192" fill="none" stroke="hsl(120, 80%, 65%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="120" y1="192" x2="216" y2="192" fill="none" stroke="hsl(120, 80%, 65%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/></svg>');
   display: inline-block;
@@ -191,7 +191,7 @@ body.sable-remote-theme [class="styles_NavCategory__e6taqj0 _1mqalmd1 _1mqalmd0"
   height: 1.25rem;
 }
 body.sable-remote-theme [class="styles_NavCategory__e6taqj0 _1mqalmd1 _1mqalmd0"]:first-of-type
-[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button))
+[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button, [data-sentry-source-file="Inbox.tsx"]))
 [class="_1684mq51 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1684mq52 cpipac3"]
 svg {
   display: none !important;

@@ -240,7 +240,7 @@ body.sable-remote-theme svg:not([data-sentry-component="ThemePreviewCard"] *, [d
 
 /* Custom Lobby Icon */
 body.sable-remote-theme [class="styles_NavCategory__e6taqj0 _1mqalmd1 _1mqalmd0"]:first-of-type
-[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button))
+[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button, [data-sentry-source-file="Inbox.tsx"]))
 [class="_1684mq51 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1684mq52 cpipac3"]::before { 
   content: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"/><line x1="16" y1="216" x2="240" y2="216" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><polyline points="96 216 96 40 32 40 32 216" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><polyline points="224 216 224 88 160 88 160 216" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="160" y1="136" x2="96" y2="136" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="64" y1="72" x2="64" y2="88" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="64" y1="120" x2="64" y2="136" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="64" y1="168" x2="64" y2="184" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="128" y1="168" x2="128" y2="184" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="192" y1="168" x2="192" y2="184" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/><line x1="192" y1="120" x2="192" y2="136" fill="none" stroke="hsl(205, 100%, 70%)" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/></svg>');
   display: inline-block;
@@ -249,7 +249,7 @@ body.sable-remote-theme [class="styles_NavCategory__e6taqj0 _1mqalmd1 _1mqalmd0"
   filter: drop-shadow(0px 0px 4px hsla(0, 65%, 60%, 50%));
 }
 body.sable-remote-theme [class="styles_NavCategory__e6taqj0 _1mqalmd1 _1mqalmd0"]:first-of-type
-[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button))
+[class="styles_NavItem__e6taqj9 _1mqalmd1 _1mqalmd0 styles_NavItemBase__e6taqj8 _1bugis91 styles_NavItem_variant_Background__e6taqja styles_NavItem_radii_400__e6taqjk cpipac3"]:first-of-type:not(:has(button, [data-sentry-source-file="Inbox.tsx"]))
 [class="_1684mq51 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1684mq52 cpipac3"]
 svg {
   display: none !important;
