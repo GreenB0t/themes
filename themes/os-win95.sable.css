@@ -134,6 +134,7 @@ body.sable-remote-theme {
 /* 3D Retro Border */
 body.sable-remote-theme button:not([class*="Reply_Reply__1ew384n1"], 
   [class="MembersDrawer_DrawerVirtualItem__10re0tb7"] *, 
+  [data-sentry-component="EmojiGroupHolder"] *, 
   [class*="style_PageHeader_outlined_true__1co06gja"] *, 
   [class*="style_PageNavHeader__1co06gj5"] *, 
   [class*="RoomViewFollowing"], [class="layout_Username__1r9nvas16"],

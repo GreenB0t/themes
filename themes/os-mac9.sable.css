@@ -136,6 +136,7 @@ body.sable-remote-theme {
 body.sable-remote-theme button:not([class*="Reply_Reply__1ew384n1"], 
   [class="MembersDrawer_DrawerVirtualItem__10re0tb7"] *, 
   [class*="style_PageHeader_outlined_true__1co06gja"] *, 
+  [data-sentry-component="EmojiGroupHolder"] *, 
   [class*="style_PageNavHeader__1co06gj5"] *, 
   [class*="RoomViewFollowing"], [class="layout_Username__1r9nvas16"],
   [class="_1bv8u1w6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1bv8u1w8 _1bv8u1wh _1bv8u1wf cpipac3"], 
