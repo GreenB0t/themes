@@ -180,6 +180,7 @@ body.sable-remote-theme button:is([class="epr39zd _1mqalmd1 _1mqalmd0 _1bugis90 
   border-left: 1px solid hsl(205, 66.28%, 60%) !important;
 }
 body.sable-remote-theme button:is([class="epr39zd _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 epr39ze epr39zi epr39zn cpipac2 epr39zp"]:not([data-sentry-component="ThemePreviewCard"] *), 
+[data-sentry-component="EmojiBoardTabs"] *, 
 [class="_1bv8u1w6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1bv8u1wa _1bv8u1wh _1bv8u1wf cpipac5 _1bv8u1wj"], 
 [class="prxiv40 _1mqalmd1 _1mqalmd0 prxiv41 prxiv4i prxiv41a prxiv41k"] *) {
   border-top: 1px solid hsl(200, 66.28%, 63.68%); /*** Cyan ***/

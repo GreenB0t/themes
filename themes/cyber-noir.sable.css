@@ -209,6 +209,7 @@ body.sable-remote-theme button:is([class="_13tt0gb6 _1mqalmd1 _1mqalmd0 _1bugis9
     url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 50" preserveAspectRatio="none"%3E%3Cpolygon points="0,0 100,0 100,35 94,50 0,50" fill="hsl(60, 77%, 33%)"/%3E%3C/svg%3E');
 }
 body.sable-remote-theme button:is([class="epr39zd _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 epr39ze epr39zi epr39zn cpipac2 epr39zp"]:not([data-sentry-component="ThemePreviewCard"] *), 
+[data-sentry-component="EmojiBoardTabs"] *, 
 [class="prxiv40 _1mqalmd1 _1mqalmd0 prxiv41 prxiv4i prxiv41a prxiv41k"] *) {
   border: none; /*** Black ***/
   border-radius: 0px;
