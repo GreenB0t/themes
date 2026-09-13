@@ -63,7 +63,7 @@ body.sable-remote-theme {
   --sable-success-on-main: #181825;
   --sable-success-container: #313244;
   --sable-success-container-hover: #a6e3a11a;
-  --sable-success-container-active: #a6e3a1b412;
+  --sable-success-container-active: #a6e3a112;
   --sable-success-container-line: #313244;
   --sable-success-on-container: #a6e3a1;
 
@@ -96,4 +96,3 @@ body.sable-remote-theme {
   --sable-shadow: rgba(0, 0, 0, 0.4);
   --sable-overlay: rgb(24, 24, 37, 0.8);
 }
-
