@@ -1,0 +1,20 @@
+/*
+@sable-tweak
+id: unhide-spoilers
+name: Unhide Spoilers
+description: Reveals all text hidden in spoiler tags without having to click on them.
+author: kr0nst
+tags: spoiler
+*/
+
+body.sable-remote-theme span[class*='SpoilerBase'] {
+  color: #fff !important;
+  background: #000 !important;
+  visibility: visible !important;
+}
+
+body.sable-remote-theme span[class*='SpoilerBase'] * {
+  color: #fff !important;
+  background: #000 !important;
+  visibility: visible !important;
+}
