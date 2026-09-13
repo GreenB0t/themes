@@ -253,6 +253,10 @@
     {
       "basename": "square-everything",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/square-everything.sable.css"
+    },
+    {
+      "basename": "unhide-spoilers",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/tweaks/unhide-spoilers.sable.css"
     }
   ]
 }
