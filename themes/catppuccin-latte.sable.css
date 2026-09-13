@@ -37,10 +37,10 @@ body.sable-remote-theme {
   --sable-primary-main-active: #8839efb4;
   --sable-primary-main-line: #8839efa0;
   --sable-primary-on-main: #eff1f5;
-  --sable-primary-container: #cba6f712;
-  --sable-primary-container-hover: #cba6f71a;
-  --sable-primary-container-active: #cba6f712;
-  --sable-primary-container-line: #cba6f708;
+  --sable-primary-container: #8839ef12;
+  --sable-primary-container-hover: #8839ef1a;
+  --sable-primary-container-active: #8839ef12;
+  --sable-primary-container-line: #8839ef08;
   --sable-primary-on-container: #8839ef;
 
   /* Secondary */
@@ -96,4 +96,3 @@ body.sable-remote-theme {
   --sable-shadow: rgba(0, 0, 0, 0.4);
   --sable-overlay: rgba(220, 224, 232, 0.8);
 }
-
