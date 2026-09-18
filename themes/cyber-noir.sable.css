@@ -146,10 +146,10 @@ body.sable-remote-theme :is([class*="prxiv40 _1mqalmd1 _1mqalmd0 prxiv42 prxiv44
 body.sable-remote-theme button:is([class*="styles_NavCategoryHeader__e6taqj1"] *) {
   color: hsl(60, 100%, 68%) !important;
 }
-body.sable-remote-theme :is([class*="RoomTimeline_TimelineFloat__1n936q90"]) {
+body.sable-remote-theme [class*="RoomTimeline_TimelineFloat__1n936q90"] {
   background: none !important;
 }
-body.sable-remote-theme :is([class="prxiv40 _1mqalmd1 _1mqalmd0 prxiv41 prxiv4g prxiv41a prxiv41k RoomTimeline_TimelineFloat__1n936q90 _1mqalmd1 _1mqalmd0 RoomTimeline_TimelineFloat_position_Top__1n936q91"]) {
+body.sable-remote-theme [class="prxiv40 _1mqalmd1 _1mqalmd0 prxiv41 prxiv4g prxiv41a prxiv41k RoomTimeline_TimelineFloat__1n936q90 _1mqalmd1 _1mqalmd0 RoomTimeline_TimelineFloat_position_Top__1n936q91"]:not(:has([class="_1bv8u1w6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1bv8u1wa _1bv8u1wh _1bv8u1wf cpipac5 _1bv8u1wj"])) {
   border-radius: 50% !important;
 }
 
