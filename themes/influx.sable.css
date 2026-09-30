@@ -46,7 +46,7 @@ body.sable-remote-theme {
   --sable-surface-container-hover: hsl(235, 10%, 18%);
   --sable-surface-container-active: hsl(235, 10%, 23%);
   --sable-surface-container-line: hsl(235, 10%, 17%);
-  --sable-surface-on-container: hsl(235, 10%, 93%);
+  --sable-surface-on-container: hsl(225, 10%, 93%);
 
   /* Surface Variant */
   --sable-surface-var-container: hsl(225, 13%, 8%);
@@ -60,24 +60,24 @@ body.sable-remote-theme {
   --sable-primary-main-hover: hsl(245, 70%, 57%);
   --sable-primary-main-active: hsl(245, 70%, 54%);
   --sable-primary-main-line: hsl(245, 70%, 54%);
-  --sable-primary-on-main: hsl(235, 10%, 93%);
+  --sable-primary-on-main: hsl(225, 10%, 93%);
   --sable-primary-container: hsl(245, 70%, 54%);
   --sable-primary-container-hover: hsl(245, 70%, 57%);
   --sable-primary-container-active: hsl(245, 70%, 54%);
   --sable-primary-container-line: hsl(245, 70%, 54%);
-  --sable-primary-on-container: hsl(235, 10%, 93%);
+  --sable-primary-on-container: hsl(225, 10%, 93%);
 
   /* Secondary */
   --sable-sec-main: hsl(235, 14%, 62%);
   --sable-sec-main-hover: hsl(235, 14%, 69%);
   --sable-sec-main-active: hsl(235, 14%, 75%);
   --sable-sec-main-line: hsl(235, 15%, 81%);
-  --sable-sec-on-main: hsl(235, 12%, 12%);
+  --sable-sec-on-main: hsl(225, 12%, 12%);
   --sable-sec-container: hsl(235, 10%, 19%);
   --sable-sec-container-hover: hsl(235, 10%, 23%);
   --sable-sec-container-active: hsl(235, 9%, 27%);
   --sable-sec-container-line: hsl(235, 10%, 20%);
-  --sable-sec-on-container: hsl(235, 21%, 93%);
+  --sable-sec-on-container: hsl(225, 21%, 93%);
 
   /* Success */
   --sable-success-main: hsl(155, 80%, 70%);
@@ -89,7 +89,7 @@ body.sable-remote-theme {
   --sable-success-container-hover: hsl(245, 70%, 51%);
   --sable-success-container-active: hsl(245, 70%, 54%);
   --sable-success-container-line: hsl(245, 70%, 54%);
-  --sable-success-on-container: hsl(235, 21%, 93%);
+  --sable-success-on-container: hsl(225, 21%, 93%);
 
   /* Warning */
   --sable-warn-main: hsl(45, 59%, 73%);
@@ -167,7 +167,7 @@ body.sable-remote-theme [class*="RoomTimeline_TimelineFloat_position_Bottom"] * 
 
 body.sable-remote-theme [class*="Sidebar_SidebarItemBadge_mode_count__vs60p59"] *:not([class="_1xny9xl0 _1mqalmd1 _1mqalmd0 _1xny9xlg _1xny9xlr"]) {
   background-color: hsl(0, 80%, 54%) !important; /*Ping Notif */
-  color: hsl(235, 10%, 93%) !important;
+  color: hsl(225, 10%, 93%) !important;
 }
 
 body.sable-remote-theme [class*="Reaction_Reaction__1ofy2965 _1bugis90"][aria-pressed="true"] {
@@ -177,7 +177,7 @@ body.sable-remote-theme [class*="Reaction_Reaction__1ofy2965 _1bugis90"][aria-pr
 
 body.sable-remote-theme [class="_13qe89m6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _13qe89ma _13qe89mc _13qe89mg cpipac2"] {
   background-color: hsl(245, 70%, 54%) !important; /*EmojiBoard Tab*/
-  color: hsl(235, 10%, 93%) !important;
+  color: hsl(225, 10%, 93%) !important;
 }
 
 .CustomHtml_Mention__1t9vo33i {
