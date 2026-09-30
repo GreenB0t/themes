@@ -6,12 +6,12 @@ author: userspring
 kind: dark
 contrast: high
 tags: purple, blue, black · recommended tweaks: Rounded Sable
-fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/influx.sable.css
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/light.sable.css
 */
 
 @font-face {
   font-family: Noto Sans;
-  font-weight: 200 500;
+  font-weight: 200 700;
   src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/Noto_Sans/NotoSans-Variable.ttf") format('truetype-variations');
   font-display: swap; 
 }
@@ -32,7 +32,7 @@ body {
 }
 
 body.sable-remote-theme {
-  --font-secondary: 'Noto Sans', 'Twemoji', sans-serif;
+  --font-secondary: 'Noto Sans', 'Twemoji', 'Nunito Variable', system-ui, -apple-system, sans-serif;
 
   /* Background */
   --sable-bg-container: hsl(225, 12%, 10.3%);
