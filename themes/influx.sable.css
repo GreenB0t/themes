@@ -6,7 +6,7 @@ author: userspring
 kind: dark
 contrast: high
 tags: purple, blue, black · recommended tweaks: Rounded Sable
-fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/light.sable.css
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/influx.sable.css
 */
 
 @font-face {
@@ -113,7 +113,7 @@ body.sable-remote-theme {
   --sable-crit-container-hover: hsl(0, 65%, 30%);
   --sable-crit-container-active: hsl(0, 65%, 33%);
   --sable-crit-container-line: hsl(0, 65%, 36%);
-  --sable-crit-on-container: hsl(225, 10%, 93%);
+  --sable-crit-on-container: hsl(0, 70%, 70%);
 
   /* Other */
   --sable-focus-ring: hsla(249, 59%, 82%, 50%);
