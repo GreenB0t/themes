@@ -104,6 +104,11 @@
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/horizon-light.sable.css"
     },
     {
+      "basename": "influx",
+      "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/influx.preview.sable.css",
+      "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/influx.sable.css"
+    },
+    {
       "basename": "light",
       "previewUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/light.preview.sable.css",
       "fullUrl": "https://raw.githubusercontent.com/SableClient/themes/main/themes/light.sable.css"
