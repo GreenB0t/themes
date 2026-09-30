@@ -1,0 +1,20 @@
+/*
+@sable-theme
+id: influx
+name: Influx
+author: userspring
+kind: dark
+contrast: high
+tags: purple, blue, black · recommended tweaks: Rounded Sable
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/influx.sable.css
+*/
+
+.sable-theme-preview {
+  --sable-bg-container: hsl(225, 12%, 10.3%);
+  --sable-bg-on-container: hsl(225, 10%, 93%);
+  --sable-surface-container: hsl(225, 12%, 12.3%);
+  --sable-surface-container-line: hsl(225, 10%, 17%);
+  --sable-surface-on-container: hsl(225, 10%, 93%);
+  --sable-primary-main: hsl(245, 70%, 54%);
+  --sable-primary-on-main: hsl(225, 10%, 93%);
+}
