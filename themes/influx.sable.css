@@ -35,11 +35,11 @@ body.sable-remote-theme {
   --font-secondary: 'Noto Sans', 'Twemoji', 'Nunito Variable', system-ui, -apple-system, sans-serif;
 
   /* Background */
-  --sable-bg-container: hsl(235, 12%, 10.3%);
-  --sable-bg-container-hover: hsl(235, 11%, 15%);
-  --sable-bg-container-active: hsl(235, 10%, 19%);
-  --sable-bg-container-line: hsl(235, 10%, 17%);
-  --sable-bg-on-container: hsl(235, 10%, 93%);
+  --sable-bg-container: hsl(225, 12%, 10.3%);
+  --sable-bg-container-hover: hsl(225, 11%, 15%);
+  --sable-bg-container-active: hsl(225, 10%, 19%);
+  --sable-bg-container-line: hsl(225, 10%, 17%);
+  --sable-bg-on-container: hsl(225, 10%, 93%);
 
   /* Surface */
   --sable-surface-container: hsl(235, 12%, 12.3%);
@@ -49,11 +49,11 @@ body.sable-remote-theme {
   --sable-surface-on-container: hsl(235, 10%, 93%);
 
   /* Surface Variant */
-  --sable-surface-var-container: hsl(245, 13%, 8%);
-  --sable-surface-var-container-hover: hsl(245, 10%, 18%);
-  --sable-surface-var-container-active: hsl(245, 11%, 15%);
-  --sable-surface-var-container-line: hsl(245, 10%, 17%);
-  --sable-surface-var-on-container: hsl(245, 10%, 93%);
+  --sable-surface-var-container: hsl(225, 13%, 8%);
+  --sable-surface-var-container-hover: hsl(225, 10%, 18%);
+  --sable-surface-var-container-active: hsl(225, 11%, 15%);
+  --sable-surface-var-container-line: hsl(225, 10%, 17%);
+  --sable-surface-var-on-container: hsl(225, 10%, 93%);
 
   /* Primary */
   --sable-primary-main: hsl(245, 70%, 54%);
