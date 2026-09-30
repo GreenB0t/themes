@@ -127,11 +127,11 @@ body.sable-remote-theme button[class*="Sidebar_SidebarAvatar_outlined"]:not([cla
   border-radius .23s ease-in-out, 
   border-width .23s ease-in-out, 
   border-color .1s ease-in-out !important;
-  border: 1px dashed hsla(245, 13%, 45%, 100%) !important;
+  border: 1px dashed hsla(245, 0%, 45%, 100%) !important;
   border-radius: 50% !important;
 }
 body.sable-remote-theme button[class*="Sidebar_SidebarAvatar_outlined"]:not([class*="UserQuickTools"] *):hover {
-  border: 2px dashed hsla(245, 13%, 65%, 100%) !important;
+  border: 2px dashed hsla(245, 0%, 65%, 100%) !important;
   border-radius: 30% !important;
   transition: 
   border-radius .18s ease-out, 
