@@ -1,0 +1,190 @@
+/*
+@sable-theme
+id: influx
+name: Influx
+author: userspring
+kind: dark
+contrast: high
+tags: purple, blue, dark grey · recommended tweaks: Rounded Sable
+fullThemeUrl: https://raw.githubusercontent.com/SableClient/themes/main/themes/influx.sable.css
+*/
+
+@font-face {
+  font-family: Noto Sans;
+  font-weight: 200 700;
+  src: url("https://raw.githubusercontent.com/SableClient/themes/main/fonts/Noto_Sans/NotoSans-Variable.ttf") format('truetype-variations');
+  font-display: swap; 
+}
+body {
+  --custom-font-size1: 15px;
+      font-size: var(--custom-font-size1);
+    --_164xfgea: var(--custom-font-size1);
+    --_164xfge6: var(--custom-font-size1);
+    --_164xfge5: var(--custom-font-size1);
+    --_164xfge7: var(--custom-font-size1);
+  --custom-line-height: 1.45;
+    line-height: var(--custom-line-height);
+  --custom-font-size2: 13.5px;
+    --_164xfgeb: var(--custom-font-size2);
+}
+.layout_MessageTextBody_jumboEmoji_none__1r9nvas1b, [class="Editor_Editor__1a1o97c0 _1mqalmd1 _1mqalmd0 "] *:not(button *) {
+  font-size: var(--custom-font-size1) !important;
+}
+button {
+  font-size: var(--custom-font-size2) !important;
+}
+
+body.sable-remote-theme {
+  --font-secondary: 'Noto Sans', 'Twemoji', 'Nunito Variable', system-ui, -apple-system, sans-serif;
+
+  /* Background */
+  --sable-bg-container: hsl(225, 12%, 10.3%);
+  --sable-bg-container-hover: hsl(225, 11%, 15%);
+  --sable-bg-container-active: hsl(225, 10%, 19%);
+  --sable-bg-container-line: hsl(225, 10%, 17%);
+  --sable-bg-on-container: hsl(225, 10%, 93%);
+
+  /* Surface */
+  --sable-surface-container: hsl(235, 12%, 12.3%);
+  --sable-surface-container-hover: hsl(235, 10%, 18%);
+  --sable-surface-container-active: hsl(235, 10%, 23%);
+  --sable-surface-container-line: hsl(235, 10%, 17%);
+  --sable-surface-on-container: hsl(225, 10%, 93%);
+
+  /* Surface Variant */
+  --sable-surface-var-container: hsl(225, 13%, 8%);
+  --sable-surface-var-container-hover: hsl(225, 10%, 18%);
+  --sable-surface-var-container-active: hsl(225, 11%, 15%);
+  --sable-surface-var-container-line: hsl(225, 10%, 17%);
+  --sable-surface-var-on-container: hsl(225, 10%, 93%);
+
+  /* Primary */
+  --sable-primary-main: hsl(245, 70%, 54%);
+  --sable-primary-main-hover: hsl(245, 70%, 57%);
+  --sable-primary-main-active: hsl(245, 70%, 54%);
+  --sable-primary-main-line: hsl(245, 70%, 54%);
+  --sable-primary-on-main: hsl(225, 10%, 93%);
+  --sable-primary-container: hsl(245, 70%, 54%);
+  --sable-primary-container-hover: hsl(245, 70%, 57%);
+  --sable-primary-container-active: hsl(245, 70%, 54%);
+  --sable-primary-container-line: hsl(245, 70%, 54%);
+  --sable-primary-on-container: hsl(225, 10%, 93%);
+
+  /* Secondary */
+  --sable-sec-main: hsl(235, 14%, 62%);
+  --sable-sec-main-hover: hsl(235, 14%, 69%);
+  --sable-sec-main-active: hsl(235, 14%, 75%);
+  --sable-sec-main-line: hsl(235, 15%, 81%);
+  --sable-sec-on-main: hsl(225, 12%, 12%);
+  --sable-sec-container: hsl(235, 10%, 19%);
+  --sable-sec-container-hover: hsl(235, 10%, 23%);
+  --sable-sec-container-active: hsl(235, 9%, 27%);
+  --sable-sec-container-line: hsl(235, 10%, 20%);
+  --sable-sec-on-container: hsl(225, 21%, 93%);
+
+  /* Success */
+  --sable-success-main: hsl(155, 80%, 70%);
+  --sable-success-main-hover: hsl(155, 80%, 65%);
+  --sable-success-main-active: hsl(155, 80%, 63%);
+  --sable-success-main-line: hsl(155, 80%, 60%);
+  --sable-success-on-main: hsl(155, 80%, 15%);
+  --sable-success-container: hsl(245, 70%, 54%);
+  --sable-success-container-hover: hsl(245, 70%, 51%);
+  --sable-success-container-active: hsl(245, 70%, 54%);
+  --sable-success-container-line: hsl(245, 70%, 54%);
+  --sable-success-on-container: hsl(225, 21%, 93%);
+
+  /* Warning */
+  --sable-warn-main: hsl(45, 59%, 73%);
+  --sable-warn-main-hover: hsl(45, 60%, 68%);
+  --sable-warn-main-active: hsl(45, 60%, 66%);
+  --sable-warn-main-line: hsl(45, 60%, 64%);
+  --sable-warn-on-main: hsl(45, 50%, 16%);
+  --sable-warn-container: hsl(45, 49%, 34%);
+  --sable-warn-container-hover: hsl(45, 49%, 28%);
+  --sable-warn-container-active: hsl(45, 49%, 30%);
+  --sable-warn-container-line: hsl(45, 80%, 62%);
+  --sable-warn-on-container: hsl(45, 59%, 89%);
+
+  /* Critical */
+  --sable-crit-main: hsl(0, 70%, 70%);
+  --sable-crit-main-hover: hsl(0, 70%, 72%);
+  --sable-crit-main-active: hsl(0, 70%, 70%);
+  --sable-crit-main-line: hsl(0, 70%, 68%);
+  --sable-crit-on-main: hsl(0, 70%, 18%);
+  --sable-crit-container: hsl(0, 65%, 27%);
+  --sable-crit-container-hover: hsl(0, 65%, 30%);
+  --sable-crit-container-active: hsl(0, 65%, 33%);
+  --sable-crit-container-line: hsl(0, 65%, 36%);
+  --sable-crit-on-container: hsl(0, 70%, 70%);
+
+  /* Other */
+  --sable-focus-ring: hsla(249, 59%, 82%, 50%);
+  --sable-shadow: hsla(0, 0%, 0%, 40%);
+  --sable-overlay: hsla(255, 13%, 6%, 85%);
+}
+
+/*** Left Panel Buttons ***/
+body.sable-remote-theme button[class*="Sidebar_SidebarAvatar_outlined"]:not([class*="UserQuickTools"] *) {
+  transition: 
+  border-radius .23s ease-in-out, 
+  border-width .23s ease-in-out, 
+  border-color .1s ease-in-out !important;
+  border: 1px dashed hsla(245, 0%, 45%, 100%) !important;
+  border-radius: 50% !important;
+}
+body.sable-remote-theme button[class*="Sidebar_SidebarAvatar_outlined"]:not([class*="UserQuickTools"] *):hover {
+  border: 2px dashed hsla(245, 0%, 65%, 100%) !important;
+  border-radius: 30% !important;
+  transition: 
+  border-radius .18s ease-out, 
+  border-width .1s ease-out, 
+  border-color .1s ease-out !important;
+}
+
+/*** Left Panel Spaces ***/
+body.sable-remote-theme button[class="_1684mq51 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1684mq54 cpipac3 Sidebar_SidebarAvatar__vs60p5b Sidebar_SidebarAvatar_size_400__vs60p5e"] {
+  transition: border-radius .1s ease-in-out !important;
+  border-radius: 37% !important;
+}
+body.sable-remote-theme button[class="_1684mq51 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _1684mq54 cpipac3 Sidebar_SidebarAvatar__vs60p5b Sidebar_SidebarAvatar_size_400__vs60p5e"]:hover {
+  border-radius: 27% !important;
+}
+
+/*** Bottom Toolbar ***/
+body.sable-remote-theme [class*="UserQuickTools"] * {
+  border: none !important;
+  border-radius: 50% !important;
+}
+
+/*** Rounder Avatars ***/
+body.sable-remote-theme img[class="_1684mq5c _1mqalmd1 _1mqalmd0 UserAvatar_UserAvatar__1f07iat0"] {
+  border-radius: 11.2px;
+}
+
+/*** Custom Colors ***/
+body.sable-remote-theme [class*="RoomTimeline_TimelineFloat_position_Bottom"] * {
+  background-color: hsl(0, 80%, 54%) !important; /*Jump-to-Latest*/
+  border-color: hsl(0, 70%, 40%) !important;
+}
+
+body.sable-remote-theme [class*="Sidebar_SidebarItemBadge_mode_count__vs60p59"] *:not([class="_1xny9xl0 _1mqalmd1 _1mqalmd0 _1xny9xlg _1xny9xlr"]) {
+  background-color: hsl(0, 80%, 54%) !important; /*Ping Notif */
+  color: hsl(225, 10%, 93%) !important;
+}
+
+body.sable-remote-theme [class*="Reaction_Reaction__1ofy2965 _1bugis90"][aria-pressed="true"] {
+  background-color: hsl(240, 35%, 27%) !important; /*React ON*/
+  border-color: hsl(240, 65%, 55%) !important;
+}
+
+body.sable-remote-theme [class="_13qe89m6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis91 _13qe89ma _13qe89mc _13qe89mg cpipac2"] {
+  background-color: hsl(245, 70%, 54%) !important; /*EmojiBoard Tab*/
+  color: hsl(225, 10%, 93%) !important;
+}
+
+.CustomHtml_Mention__1t9vo33i {
+    box-shadow: none; /*Mentions*/
+    background-color: hsl(200, 30%, 18%);
+    color: hsl(200, 84%, 70%);
+}
