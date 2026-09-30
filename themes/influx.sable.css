@@ -27,8 +27,11 @@ body {
   --custom-font-size2: 13.5px;
     --_164xfgeb: var(--custom-font-size2);
 }
-.layout_MessageTextBody_jumboEmoji_none__1r9nvas1b {
+.layout_MessageTextBody_jumboEmoji_none__1r9nvas1b, [class="Editor_Editor__1a1o97c0 _1mqalmd1 _1mqalmd0 "] *:not(button *) {
   font-size: var(--custom-font-size1) !important;
+}
+button {
+  font-size: var(--custom-font-size2) !important;
 }
 
 body.sable-remote-theme {

@@ -73,6 +73,9 @@ body.sable-remote-theme [class*="AutocompleteMenu"] img,
 body.sable-remote-theme [class*="Reaction_ReactionImg"] {
   border-radius: 3.2px !important;
 }
+body.sable-remote-theme [class*="UserQuickTools"] * {
+  border-radius: 50% !important;
+}
 
 /* Dynamic Rounding */
 body.sable-remote-theme [class*="NavItem"][aria-selected="true"] [class*="RoomAvatar"] {
