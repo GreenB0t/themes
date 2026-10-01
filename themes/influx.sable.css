@@ -30,7 +30,7 @@ body {
 .layout_MessageTextBody_jumboEmoji_none__1r9nvas1b, [class="Editor_Editor__1a1o97c0 _1mqalmd1 _1mqalmd0 "] *:not(button *) {
   font-size: var(--custom-font-size1) !important;
 }
-button {
+button:not([class*="styles_EmojiItem__1n9oudok"]) {
   font-size: var(--custom-font-size2) !important;
 }
 
@@ -158,7 +158,7 @@ body.sable-remote-theme [class*="UserQuickTools"] * {
 }
 
 /*** Rounder Avatars ***/
-body.sable-remote-theme img[class="_1684mq5c _1mqalmd1 _1mqalmd0 UserAvatar_UserAvatar__1f07iat0"] {
+body.sable-remote-theme img[class="_1684mq5c _1mqalmd1 _1mqalmd0 UserAvatar_UserAvatar__1f07iat0"], :has([data-sentry-component="userFallbackIcon"]) {
   border-radius: 11.2px;
 }
 
@@ -185,6 +185,6 @@ body.sable-remote-theme [class="_13qe89m6 _1mqalmd1 _1mqalmd0 _1bugis90 _1bugis9
 
 .CustomHtml_Mention__1t9vo33i {
     box-shadow: none; /*Mentions*/
-    background-color: hsl(200, 30%, 18%);
-    color: hsl(200, 84%, 70%);
+    background-color: hsl(200, 40%, 18%);
+    color: hsl(200, 90%, 74%);
 }
